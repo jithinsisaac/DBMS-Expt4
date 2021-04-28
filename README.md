@@ -29,7 +29,7 @@ To learn & implement SQL Sub-Queries & Joins on a database
 
 **Screenshots & Video of outputs obtained for the following queries**
   1.  Sub-Query on Single Table
-  2.  Nested sub-query using IN, ALL & ANY
+  2.  Nested sub-query using IN, ALL & ANY (Any one)
   3.  Equi-Join operation
   4.  Natural Join operation
   5.  Sorting of a Join
